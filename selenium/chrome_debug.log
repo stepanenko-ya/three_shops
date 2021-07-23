@@ -1,0 +1,8 @@
+[32423:32423:0715/165130.313560:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[32386:32386:0715/165134.530609:WARNING:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[32386:32386:0715/165136.740098:INFO:CONSOLE(5)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (5)
+[32386:32386:0715/165136.817933:INFO:CONSOLE(1)] "recaptchacompat disabled", source: https://hcaptcha.com/1/api.js?render=explicit&recaptchacompat=off&onload=_cf_chl_hload (1)
+[32386:32386:0715/170233.424789:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[32386:32386:0715/170235.067479:INFO:CONSOLE(1)] "recaptchacompat disabled", source: https://hcaptcha.com/1/api.js?render=explicit&recaptchacompat=off&onload=_cf_chl_hload (1)
+[32386:32386:0715/170235.334419:INFO:CONSOLE(5)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (5)
+[32386:32386:0715/170240.030749:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

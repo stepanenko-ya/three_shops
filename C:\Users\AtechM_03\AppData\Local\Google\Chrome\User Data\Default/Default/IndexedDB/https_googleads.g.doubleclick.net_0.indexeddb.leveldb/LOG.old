@@ -1,0 +1,6 @@
+2021/07/06-12:06:43.305 1766 Creating DB /home/stepanenko/Projects/three_shops/C:\Users\AtechM_03\AppData\Local\Google\Chrome\User Data\Default/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
+2021/07/06-12:06:43.378 1766 Reusing MANIFEST /home/stepanenko/Projects/three_shops/C:\Users\AtechM_03\AppData\Local\Google\Chrome\User Data\Default/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-12:07:00.212 1766 Level-0 table #5: started
+2021/07/06-12:07:00.241 1766 Level-0 table #5: 364 bytes OK
+2021/07/06-12:07:00.280 1766 Delete type=0 #3
+2021/07/06-12:07:00.280 1766 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
